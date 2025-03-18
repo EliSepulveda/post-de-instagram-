@@ -26,6 +26,8 @@ body {
     border-bottom: 1px solid #ddd;
 }
 
+
+
 .user-info {
     display: flex;
     align-items: center;
@@ -35,6 +37,11 @@ body {
     font-size: 24px;
     margin-right: 10px;
     color:black;
+}
+.user-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .span1 {
